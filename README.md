@@ -23,8 +23,26 @@ I like building complete products end to end — from the API and database to th
 
 ## 💼 Experience
 
-**Axis Communications** — Software Developer *(1 year)*
-Designed, built and deployed **[TestBench](https://github.com/Tom-Bartoccioni/TestBench)**, an internal full-stack QA platform used daily by ~15 engineers to run automated tests across a fleet of IP cameras (React · FastAPI · ClickHouse · Docker).
+**Software Engineer / Automation — Axis Communications** · Sophia-Antipolis · *Jun 2025 – Jun 2026*
+Built internal tools and automated 70 end-to-end test scenarios covering video-analytics solutions, speeding up QA validation cycles. Designed and deployed **[TestBench](https://github.com/Tom-Bartoccioni/TestBench)**, a full-stack QA platform used daily by the team.
+*Python · Pytest/Playwright · TypeScript · FastAPI · PostgreSQL*
+
+**Backend Developer — JobPass** · Paris · *Sep 2023 – Feb 2024*
+Designed REST APIs, handled data management and optimized the performance of a web platform.
+*Go · Dgraph*
+
+**Full-Stack Developer — Capfun** · Mouans-Sartoux · *Apr 2022 – Aug 2022*
+Migrated the front-end to TypeScript and refactored the application, improving maintainability and UX.
+*TypeScript · Angular · PHP · SQL*
+
+**Full-Stack Developer — Mairie d'Antibes** · Antibes · *Sep 2020 – Jan 2021*
+Built a business web app for harbor staff, digitalizing the management of Antibes' ports (~2,000 berths) and replacing a paper-based process.
+*Python · Flask · PostgreSQL*
+
+## 🎓 Education
+
+- **Epitech** — Expert in Information Technology · *2019 – 2025*
+- **42 Nice** — Digital Technology Architect · *2024 – 2025*
 
 ## 🛠️ Tech I work with
 
