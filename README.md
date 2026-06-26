@@ -1,7 +1,7 @@
 # Hi, I'm Tom 👋
 
-**Full-stack developer** — TypeScript · React / React Native · Flutter · Node.js
-Epitech · 1 year of experience at Axis Communications · **Open to full-time (CDI) roles**
+**Software Engineer — Web & Mobile** — TypeScript · React / React Native · Flutter · Node.js
+Epitech & 42 · experience across web, mobile, backend & QA automation · **Open to full-time (CDI) roles**
 
 I like building complete products end to end — from the API and database to the mobile/web interface — with clean architecture and a focus on shipping.
 
