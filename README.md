@@ -61,10 +61,11 @@ Built a business web app for harbor staff, digitalizing the management of Antibe
 |---------|-----------|-------|
 | [TestBench](https://github.com/Tom-Bartoccioni/TestBench) | QA platform for AXIS camera testing *(at Axis)* | React · FastAPI · ClickHouse · Docker |
 | [Unsub](https://github.com/Tom-Bartoccioni/Unsub) | Subscription manager with virtual cards | React Native · Fastify · TypeScript |
-| [Ballkids](https://github.com/Tom-Bartoccioni/Ballkids) | Tournament ball-kids management app | React · Node · Prisma · Docker |
+| [Ballkids Manager](https://github.com/Tom-Bartoccioni/Ballkids-showcase) | Ball-kids management for an ATP tournament: selection scoring, teams, 9-day schedule, exports *(in production)* | React · Express · Prisma · Docker |
+| [Novi](https://github.com/Tom-Bartoccioni/novi-showcase) | Discover tech startups and SMEs around you: data pipeline + map, scored against your profile | Next.js · Drizzle · SQLite |
 | **Attis Garden — Mobile** *(private)* | Mobile app connected to a smart garden: 4 sensors streaming plants' real-time needs | Flutter · Dart |
 
-> Some of my work lives in private repositories — including the **Attis Garden** mobile app, a Flutter application connected to a smart vegetable garden equipped with 4 sensors, displaying the plantations' needs in real time.
+> **Ballkids Manager** and **Novi** are kept in private repositories (personal data, API credentials). Their showcase repos document the project, stack and architecture. **Source code is available on request**: message me on LinkedIn with your GitHub username and I'll add you as a read-only collaborator. The **Attis Garden** mobile app (Flutter, smart garden with 4 sensors streaming the plants' real-time needs) is private as well.
 
 ## 📫 Get in touch
 
