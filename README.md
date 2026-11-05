@@ -60,7 +60,7 @@ Built a business web app for harbor staff, digitalizing the management of Antibe
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | [TestBench](https://github.com/Tom-Bartoccioni/TestBench) | QA platform for AXIS camera testing *(at Axis)* | React · FastAPI · ClickHouse · Docker |
-| [Unsub](https://github.com/Tom-Bartoccioni/Unsub) | Subscription manager with virtual cards | React Native · Fastify · TypeScript |
+| [Unsub](https://github.com/Tom-Bartoccioni/Unsub) | Subscription tracker: brand catalog, cost rollups, payment timeline, push before each renewal | Expo / React Native · Fastify · Postgres |
 | [Ballkids Manager](https://github.com/Tom-Bartoccioni/Ballkids-showcase) | Ball-kids management for an ATP tournament: selection scoring, teams, 9-day schedule, exports *(in production)* | React · Express · Prisma · Docker |
 | [Novi](https://github.com/Tom-Bartoccioni/novi-showcase) | Discover tech startups and SMEs around you: data pipeline + map, scored against your profile | Next.js · Drizzle · SQLite |
 | **Attis Garden — Mobile** *(private)* | Mobile app connected to a smart garden: 4 sensors streaming plants' real-time needs | Flutter · Dart |
