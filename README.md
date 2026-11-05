@@ -62,10 +62,10 @@ Built a business web app for harbor staff, digitalizing the management of Antibe
 | [TestBench](https://github.com/Tom-Bartoccioni/TestBench) | QA platform for AXIS camera testing *(at Axis)* | React · FastAPI · ClickHouse · Docker |
 | [Unsub](https://github.com/Tom-Bartoccioni/Unsub) | Subscription tracker: brand catalog, cost rollups, payment timeline, push before each renewal | Expo / React Native · Fastify · Postgres |
 | [Ballkids Manager](https://github.com/Tom-Bartoccioni/Ballkids-showcase) | Ball-kids management for an ATP tournament: selection scoring, teams, 9-day schedule, exports *(in production)* | React · Express · Prisma · Docker |
-| [Novi](https://github.com/Tom-Bartoccioni/novi-showcase) | Discover tech startups and SMEs around you: data pipeline + map, scored against your profile | Next.js · Drizzle · SQLite |
+| [Novi](https://github.com/Tom-Bartoccioni/novi) | Discover tech startups and SMEs around you: data pipeline + map, scored against your profile | Next.js · Drizzle · SQLite |
 | **Attis Garden — Mobile** *(private)* | Mobile app connected to a smart garden: 4 sensors streaming plants' real-time needs | Flutter · Dart |
 
-> **Ballkids Manager** and **Novi** are kept in private repositories (personal data, API credentials). Their showcase repos document the project, stack and architecture. **Source code is available on request**: message me on LinkedIn with your GitHub username and I'll add you as a read-only collaborator. The **Attis Garden** mobile app (Flutter, smart garden with 4 sensors streaming the plants' real-time needs) is private as well.
+> **Ballkids Manager** is kept in a private repository (it handles personal data of minors). Its showcase repo documents the project and links to a public demo instance; **source code is available on request**: message me on LinkedIn with your GitHub username and I'll add you as a read-only collaborator. The **Attis Garden** mobile app (Flutter, smart garden with 4 sensors streaming the plants' real-time needs) is private as well.
 
 ## 📫 Get in touch
 
